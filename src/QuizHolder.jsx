@@ -34,7 +34,7 @@ const quizQues = [
         "b": "Beautiful Boy",
         "c": "Bird Box",
         "d": "Gladiator",
-        "correct": "a"
+        "correct": "b"
     }
 ]
 export default function QuizHolder(props) {
